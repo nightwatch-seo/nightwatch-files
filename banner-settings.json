@@ -13,7 +13,7 @@
     },
     {
       "target_url": "https://nightwatch.io/?ref=extension&ver=banner-gif",
-      "media_url": "https://raw.githubusercontent.com/nightwatch-seo/nightwatch-files/main/promo-animation.gif",
+      "media_url": "https://raw.githubusercontent.com/nightwatch-seo/nightwatch-files/refs/heads/main/promo-gif.gif",
       "media_type": "gif"
     }
   ]
