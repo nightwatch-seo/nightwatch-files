@@ -2,34 +2,14 @@
   "banner_type": "slider",
   "media": [
     {
-      "target_url": "https://nightwatch.io/?ref=extension&ver=banner-v1",
-      "media_url": "https://raw.githubusercontent.com/nightwatch-seo/nightwatch-files/main/banner-v1.png",
+      "target_url": "https://nightwatch.io/?ref=extension&ver=100-results-1",
+      "media_url": "https://raw.githubusercontent.com/nightwatch-seo/nightwatch-files/main/extension/banner-100r.jpg",
       "media_type": "image"
     },
     {
-      "target_url": "https://nightwatch.io/?ref=extension&ver=banner-v1-with-button",
-      "media_url": "https://raw.githubusercontent.com/nightwatch-seo/nightwatch-files/main/banner-v1-with-button.png",
+      "target_url": "https://nightwatch.io/?ref=extension&ver=100-results-2",
+      "media_url": "https://raw.githubusercontent.com/nightwatch-seo/nightwatch-files/main/extension/banner-100r2.jpg",
       "media_type": "image"
     },
-    {
-      "target_url": "https://nightwatch.io/?ref=extension&ver=banner-v2",
-      "media_url": "https://raw.githubusercontent.com/nightwatch-seo/nightwatch-files/main/banner-v2.png",
-      "media_type": "image"
-    },
-    {
-      "target_url": "https://nightwatch.io/?ref=extension&ver=banner-v3",
-      "media_url": "https://raw.githubusercontent.com/nightwatch-seo/nightwatch-files/main/banner-v3.png",
-      "media_type": "image"
-    },
-    {
-      "target_url": "https://nightwatch.io/?ref=extension&ver=banner-v4",
-      "media_url": "https://raw.githubusercontent.com/nightwatch-seo/nightwatch-files/main/banner-v4.png",
-      "media_type": "image"
-    },
-    {
-      "target_url": "https://nightwatch.io/?ref=extension&ver=banner-v5",
-      "media_url": "https://raw.githubusercontent.com/nightwatch-seo/nightwatch-files/main/banner-v5.png",
-      "media_type": "image"
-    }
   ]
 }
